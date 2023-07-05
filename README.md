@@ -5,7 +5,7 @@ Install script:
 bash <(curl https://raw.githubusercontent.com/ChaikalTDR/Utama/master/install.sh)
 ```
 # Instalation Script
-![Instalation script](https://i.imgur.com/8hFZG5b.png "Instalation script")
+![ChaikalTDR Offc](https://telegra.ph/file/2a13b36eacc0ff32e56e7.jpg "ChaikalTDR Offc")
 # Big Thanks To
 ```sh
 https://github.com/anamnich
