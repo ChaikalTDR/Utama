@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/MrChaikal/Utama/master/install.sh)
+bash <(curl https://raw.githubusercontent.com/ChaikalTDR/Utama/master/install.sh)
 ```
 # kal ngentit
 Screenshots:
